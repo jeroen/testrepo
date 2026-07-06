@@ -4,6 +4,5 @@ Depends: methods
 Suggests: httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf
 License: MIT + file LICENSE
 MD5sum: 3e54e6fbc0c9063936e3d01e91419c14
-File: jsonlite_2.0.0.tar.gz%3Fsomekey=79fad1b6092c1d1cc71e096d02cbc7618837fda1f90b61443f09adc25caab095
+File: jsonlite_2.0.0.tar.gz?somekey=79fad1b6092c1d1cc71e096d02cbc7618837fda1f90b61443f09adc25caab095
 NeedsCompilation: yes
-

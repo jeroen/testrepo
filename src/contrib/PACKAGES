@@ -1,7 +1,7 @@
-Package: jsonlite
-Version: 2.0.0
-Depends: methods
-Suggests: httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf
-License: MIT + file LICENSE
-Path: jsonlite_2.0.0.tar.gz?sha256=75eb910c82b350ec33f094779da0f87bff154c232e4ae39c9896a9b89f3ac82d&file=
+Package: unrtf
+Version: 1.4.9000
+Imports: sys (>= 2.0)
+License: GPL-3
+MD5sum: 918f2df3c815b34273f7fa11a405e412
 NeedsCompilation: yes
+Path: unrtf_1.4.9000.tar.gz?sha256=362c95be248cce252ba2e1a1386711a67e6f724544701ab4fa1c7693741f59b1&file=

@@ -1,0 +1,8 @@
+Package: jsonlite
+Version: 2.0.1
+Depends: methods
+Suggests: httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-07-01 13:06:40 UTC; windows
+Path: jsonlite_2.0.1.zip?sha256=ae41e0675c0d4d9af994ea908e234a47d8e5955aeb478ba04f033f151695b5fb&file=

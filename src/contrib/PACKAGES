@@ -3,6 +3,5 @@ Version: 2.0.0
 Depends: methods
 Suggests: httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf
 License: MIT + file LICENSE
-MD5sum: 3e54e6fbc0c9063936e3d01e91419c14
-Path: jsonlite_2.0.0.tar.gz?hash=blabla&file=
+Path: jsonlite_2.0.0.tar.gz?sha256=75eb910c82b350ec33f094779da0f87bff154c232e4ae39c9896a9b89f3ac82d&file=
 NeedsCompilation: yes
